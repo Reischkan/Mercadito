@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tienda"},
+{"type":"table","name":"productos","database":"tienda","data":
+[
+{"id":"1","descripcion":"Roja","foto":"https:\/\/image.freepik.com\/vector-gratis\/manzana-roja-aislada_121111-286.jpg","nombre":"Manzana","precio":"1000"},
+{"id":"2","descripcion":"Ancheta de frutas","foto":"https:\/\/cdn.shopify.com\/s\/files\/1\/1723\/5207\/products\/27002-black1_256x256.jpg?v=1571611787","nombre":"Ancheta","precio":"15000"},
+{"id":"3","descripcion":"Frutos seleccionados(500g)","foto":"https:\/\/okdiario.com\/img\/vida-sana\/2016\/06\/23\/frutos-rojos.jpg","nombre":"Frutos rojos ","precio":"12000"},
+{"id":"4","descripcion":"Frutos tropicales","foto":"https:\/\/staticr1.blastingcdn.com\/media\/photogallery\/2019\/7\/13\/660x290\/b_1200x680\/frutas-tropicales-saborea-espana-tastingspaines_2293589.jpg","nombre":"Frutos amarillos","precio":"12000"},
+{"id":"5","descripcion":"bayas","foto":"https:\/\/st4.depositphotos.com\/9701094\/40948\/i\/1600\/depositphotos_409484210-stock-photo-blue-fruits-berries-blue-dish.jpg","nombre":"Frutos azules","precio":"16000"},
+{"id":"6","descripcion":"Frutos acidos","foto":"https:\/\/previews.123rf.com\/images\/matka_w\/matka_w0809\/matka_w080900189\/3564555-mont%C3%B3n-de-diversos-frutos-verdes-en-el-fondo-blanco.jpg","nombre":"Frutos verdes","precio":"18000"},
+{"id":"7","descripcion":"Frutos citricos","foto":"https:\/\/previews.123rf.com\/images\/andreahast\/andreahast1606\/andreahast160600004\/60249135-diferentes-tipos-de-frutos-c%C3%ADtricos-en-colores-naranja-y-amarillo.jpg","nombre":"Citricos","precio":"16000"},
+{"id":"8","descripcion":"Frutos raros","foto":"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxITEhUTExMWFRUXGBgYFhgXGBcaGhgXGBgWGBgYGBoYHSggGBolHhcXITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGysmICYvLTAvNS8tLS0tLystLS0tLS0tLS0tLS0tLS0tL","nombre":"Frutos exoticos","precio":"3000"},
+{"id":"9","descripcion":"Grano","foto":"https:\/\/www.ecestaticos.com\/image\/clipping\/a6792702c44eda4498dfe7e26c6600a1\/frutos-secos-cuales-son-los-mejores-y-mas-sanos-para-comer.jpg","nombre":"Frutos secos","precio":"25000"}
+]
+}
+]

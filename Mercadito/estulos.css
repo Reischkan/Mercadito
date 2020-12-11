@@ -1,0 +1,50 @@
+.body{
+  
+  background-image: url("img/fondo.jpg"); 
+
+}
+
+.tamañotextonavbar{
+
+    font-size: 35px;
+}
+
+.margennavbar{
+    margin-left: 15px;
+}
+.marventienda{
+    margin-left: 40px;
+}
+
+.magenicon{
+    margin-bottom: 15px;
+}
+
+.colortarjetas{
+    background-color: #ffee58;
+}
+
+.bordecarrusel{
+    color: #1512c2d3;
+    
+}
+
+.jumbo{
+ background-image: url("img/carrusel3.jpg");
+  }
+
+.textjumbo{
+    font-weight: 500;
+    margin-bottom: 80px;
+
+}
+
+
+.centrartitulos{
+
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+  
